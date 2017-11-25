@@ -8,3 +8,14 @@ C:\Users\Administrator\Desktop\netbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp
 C:\Users\Administrator\Desktop\netbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\netbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.dll
 C:\Users\Administrator\Desktop\netbot\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.pdb
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.deps.json
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.runtimeconfig.json
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.dll
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.pdb
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.dll
+C:\Users\Administrator\Desktop\netbot\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.pdb
